@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: title: Your awesome title
+title: Xingkai Song's Blog
 email: xingkai.song@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   这是 Xingkai Song 的技术博客，分享编程知识、项目实践和个人思考。在探索的路上，一起前行吧！
