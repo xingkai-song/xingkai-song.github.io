@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kai&#39;s blog</title>
-    <link>https://example.org/</link>
+    <link>https://xingkai-song.github.io/</link>
     <description>Recent content on Kai&#39;s blog</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Dec 2024 23:02:36 +0800</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xingkai-song.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Blog</title>
-      <link>https://example.org/posts/my-first-blog/</link>
+      <link>https://xingkai-song.github.io/posts/my-first-blog/</link>
       <pubDate>Tue, 03 Dec 2024 23:02:36 +0800</pubDate>
-      <guid>https://example.org/posts/my-first-blog/</guid>
+      <guid>https://xingkai-song.github.io/posts/my-first-blog/</guid>
       <description>&lt;p&gt;This is an inline \(a^*=x-b^*\) equation.
 This is an inline $a^*=x-b^*$ equation.&lt;/p&gt;
 &lt;p&gt;These are block equations:&lt;/p&gt;
